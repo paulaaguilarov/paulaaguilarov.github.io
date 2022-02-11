@@ -1,0 +1,37 @@
+{
+    "stations":
+    [
+     {
+     "id": "1",
+     "name": "Absolute Country Hits",
+     "streamURL": "https://strm112.1.fm/acountry_mobile_mp3",
+     "imageURL": "station-radiodos",
+     "desc": "The Music Starts Here",
+     "longDesc": ""
+     },
+     {
+     "id": "2",
+     "name": "Radio 3",
+     "streamURL": "https://streamer.radio.co/s06e110935/listen",
+     "imageURL": "station-radiodos",
+     "desc": "Classic 80s",
+     "longDesc": ""
+     },
+     {
+     "id": "3",
+     "name": "Radio 4",
+     "streamURL": "https://streamer.radio.co/s06e110935/listen",
+     "imageURL": "station-radiodos",
+     "desc": "Classic 80s",
+     "longDesc": ""
+     },
+     {
+     "id": "4",
+     "name": "Radio 5",
+     "streamURL": "https://streamer.radio.co/s06e110935/listen",
+     "imageURL": "station-radiodos",
+     "desc": "Classic 80s",
+     "longDesc": ""
+     }
+    ]
+}
